@@ -42,12 +42,19 @@
 >屏蔽网站的 cookies 相关的警告   
 >链接 https://www.i-dont-care-about-cookies.eu/abp/
 
-   
-### [广告净化器规则](http://www.yiclear.com)
+  
+### HalfLife，规则合并自 EasylistChina、EasylistLite、CJX’sAnnoyance 合并规则（几乎每天更新)
+>链接 https://gitee.com/halflife/list/raw/master/ad.txt
 
->过滤国内大部分视频网站的广告   
->链接 http://tools.yiclear.com/ChinaList2.0.txt
+### xinggsf，乘风广告过滤规则 + 视频过滤规则，乘风规则更新详情
+>链接 https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+>链接 https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
 
+### cjx82630，cjxlist 国内备用地址
+    一、CJX’s Annoyance List (去自推列表)
+>链接 https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+    二、CJX’s uBlock list (uBlock 规则)
+>链接 https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
    
 ### [知乎过滤器](https://github.com/zsakvo/AdGuard-Custom-Rule)
 
