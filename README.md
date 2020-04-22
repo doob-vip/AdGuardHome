@@ -51,9 +51,9 @@
 >链接 https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
 
 ### cjx82630，cjxlist 国内备用地址
-## 一、CJX’s Annoyance List (去自推列表)
+### 一、CJX’s Annoyance List (去自推列表)
 >链接 https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
-## 二、CJX’s uBlock list (uBlock 规则)
+### 二、CJX’s uBlock list (uBlock 规则)
 >链接 https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
    
 ### [知乎过滤器](https://github.com/zsakvo/AdGuard-Custom-Rule)
