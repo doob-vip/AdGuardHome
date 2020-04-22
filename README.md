@@ -23,7 +23,7 @@
 
 目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护
 >屏蔽广告域名、电视盒子广告、APP内置广告，同时屏蔽了一些日志收集、大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传   
->链接 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+>链接 https://gitee.com/privacy-protection-tools/anti-ad/raw/master/easylist.txt
 
    
 ### [Adbyby](https://github.com/adbyby/xwhyc-rules)
