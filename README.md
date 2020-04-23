@@ -66,6 +66,8 @@
 
    
 ### Hosts过滤器
+>tiktok_Block - tiktok过滤规则
+>链接 https://raw.githubusercontent.com/Lenkuroko/tiktok_Block/master/block-tiktok.txt
 
 >miTVhosts - 小米电视广告过滤
 >链接  https://raw.githubusercontent.com/liamliu108/miTVhosts/master/hosts
