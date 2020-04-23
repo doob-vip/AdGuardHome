@@ -67,6 +67,9 @@
    
 ### Hosts过滤器
 
+>miTVhosts - 小米电视广告过滤
+>链接  https://raw.githubusercontent.com/liamliu108/miTVhosts/master/hosts
+
 >大圣净化 - 针对国内视频网站   
 >链接 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 
@@ -93,3 +96,7 @@
 
 >YousList - 屏蔽韩国网站广告   
 >链接 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+
+
+### adgk手机去广告规则
+>链接 https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
