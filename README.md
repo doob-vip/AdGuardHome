@@ -63,6 +63,13 @@
 >标准版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt   
 >严格版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
 
+### The Powerful Friendly Uptodate AD Blocking Hosts 最新强大而友善的去广告
+>AD host 去广告 [hosts]
+>链接    https://raw.githubusercontent.com/neodevpro/neodevhost/master/hosts.txt
+>Whitelist 域名白名单 [whitelist]
+>链接    https://raw.githubusercontent.com/neodevpro/neodevhost/master/whitelist.txt
+
+
 
    
 ### Hosts过滤器
